@@ -1,0 +1,199 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Dictionary1.baml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.baml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.baml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\MainWindow.g.vb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.g.vb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.g.vb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.g.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.MahApps.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\System.Windows.Interactivity.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe.config
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Dictionary1.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\MainWindow.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.g.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.Resources.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe.config
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Dictionary1.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.g.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.Resources.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe.config
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Dictionary1.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.baml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.g.vb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.g.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.Resources.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Dictionary1.baml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.baml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.baml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.baml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.g.vb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.g.vb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.g.vb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM_MarkupCompile.cache
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.g.resources
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.Resources.resources
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.GenerateResource.cache
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.CoreCompileInputs.cache
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe.config
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MySql.Data.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\System.Windows.Interactivity.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MySql.Data.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.CopyComplete
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.pdb

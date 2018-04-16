@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quan_Ly_Phong_Mach_CNPM
+</name>
+</assembly>
+<members>
+<member name="T:Quan_Ly_Phong_Mach_CNPM.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Quan_Ly_Phong_Mach_CNPM.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:Quan_Ly_Phong_Mach_CNPM.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Quan_Ly_Phong_Mach_CNPM.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:Quan_Ly_Phong_Mach_CNPM.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:Quan_Ly_Phong_Mach_CNPM.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:Quan_Ly_Phong_Mach_CNPM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Quan_Ly_Phong_Mach_CNPM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Quan_Ly_Phong_Mach_CNPM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Quan_Ly_Phong_Mach_CNPM.PhanTuThuoc">
+<summary>
+PhanTuThuoc
+</summary>
+</member>
+<member name="M:Quan_Ly_Phong_Mach_CNPM.PhanTuThuoc.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Quan_Ly_Phong_Mach_CNPM.Menu">
+<summary>
+Menu
+</summary>
+</member>
+<member name="M:Quan_Ly_Phong_Mach_CNPM.Menu.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Quan_Ly_Phong_Mach_CNPM.GUI.App">
+<summary>
+App
+</summary>
+</member>
+<member name="M:Quan_Ly_Phong_Mach_CNPM.GUI.App.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Quan_Ly_Phong_Mach_CNPM.GUI.App.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+</members>
+</doc>

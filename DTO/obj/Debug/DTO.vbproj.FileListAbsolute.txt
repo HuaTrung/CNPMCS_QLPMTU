@@ -1,0 +1,42 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.xml
+C:\Users\Administrator\Desktop\Quan_Ly_Phong_Mach_CNPM1\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM21052017\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\bin\Debug\DTO.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.Resources.resources
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.cache
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.vbproj.CoreCompileInputs.cache
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.dll
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.xml
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.pdb
+D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache

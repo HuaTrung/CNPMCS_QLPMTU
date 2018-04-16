@@ -1,0 +1,892 @@
+﻿<Controls:MetroWindow
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+    xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Menu"
+    Title="Menu" Height="750" Width="1250" WindowStartupLocation="CenterScreen" BorderThickness="1" ResizeMode="CanMinimize">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="20*" />
+        </Grid.RowDefinitions>
+        <dragablz:TabablzControl x:Name="menutabcontrol" FixedHeaderCount="7" TabStripPlacement="Left" RenderTransformOrigin="1.13,0.502" Grid.Row="1" d:IsHidden="True">
+            <dragablz:TabablzControl.ItemContainerStyle>
+                <Style TargetType="{x:Type dragablz:DragablzItem}" BasedOn="{StaticResource MaterialDesignDragableTabItemVerticalStyle}">
+                    <Setter Property="Width" Value="150" />
+                    <Setter Property="Height" Value="70" />
+                </Style>
+            </dragablz:TabablzControl.ItemContainerStyle>
+            <dragablz:TabablzControl.InterTabController>
+                <dragablz:InterTabController />
+            </dragablz:TabablzControl.InterTabController>
+            <TabItem x:Name="tab_quanli" VerticalAlignment="Center">
+                <TabItem.Header>
+                    <Canvas>
+                        <Image Width="50" Height="50" Canvas.Left="-75" Canvas.Top="-25" Source="Images/Apps on computer-WF.png"/>
+                        <TextBlock Canvas.Left="-25" Canvas.Top="-10" Foreground="white" FontSize="17"><Run Text="DANH SÁCH" /></TextBlock>
+                    </Canvas>
+                </TabItem.Header>
+                <Grid HorizontalAlignment="Stretch" Height="auto" VerticalAlignment="Stretch" Width="auto" Margin="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="3*" />
+                        <RowDefinition Height="9*" />
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Row="0" Grid.ColumnSpan="3" Background="#2196F3" d:IsLocked="True">
+                        <Image Source="Images/Apps on computer-WF.png" Margin="10,-6,10,-7" Width="57" />
+                        <Label FontSize="32" Foreground="white" Content="Lập danh sách khám bệnh"/>
+                    </DockPanel>
+                    <Canvas Grid.Row="1" Margin="10,5,-10,467" Grid.RowSpan="2" d:IsLocked="True">
+                        <Label Foreground="#1E88E5" Canvas.Left="35" Canvas.Top="10" FontWeight="Bold" FontSize="14" d:IsLocked="True">Tra cứu bệnh nhân</Label>
+                        <Label Foreground="#1565C0" Height="28" Canvas.Left="69" Canvas.Top="53" FontSize="13" d:IsLocked="True">Họ tên:</Label>
+                        <TextBox x:Name="tkHoten" Width="100" Canvas.Left="130" Canvas.Top="47" d:IsLocked="True"/>
+                        <Label Foreground="#1565C0" Canvas.Left="321" Canvas.Top="53" FontSize="13" d:IsLocked="True">Mã bệnh nhân:</Label>
+                        <TextBox x:Name="tkMaBN" Width="100" Canvas.Left="422" Canvas.Top="47" d:IsLocked="True"/>
+                        <Label Foreground="#1565C0" Canvas.Left="52" Canvas.Top="106" FontSize="13" d:IsLocked="True">Số CMND:</Label>
+                        <TextBox x:Name="tkCMND" Width="100" Canvas.Left="130" Canvas.Top="106" d:IsLocked="True"/>
+                        <Label Foreground="#1565C0" Canvas.Left="345" Canvas.Top="106" FontSize="13" RenderTransformOrigin="-2.667,0.889" d:IsLocked="True">Tình trạng:</Label>
+                        <ComboBox x:Name="tkTT" Width="100" Canvas.Left="422" Canvas.Top="106" VerticalAlignment="Center" Foreground="#1565C0" d:IsLocked="True">
+                            <ComboBoxItem Foreground="#1565C0">Đã khám</ComboBoxItem>
+                            <ComboBoxItem Foreground="#1565C0">Chưa khám</ComboBoxItem>
+                        </ComboBox>
+                        <Label Foreground="#1565C0" Canvas.Left="571" Canvas.Top="54" FontSize="13" RenderTransformOrigin="-2.667,0.889" d:IsLocked="True">Năm sinh:</Label>
+                        <TextBox x:Name="tknamsinh" Width="100" Canvas.Left="643" Canvas.Top="47" d:IsLocked="True"/>
+                        <Label Foreground="#1565C0" Canvas.Left="576" Canvas.Top="104" FontSize="13" RenderTransformOrigin="-2.667,0.889" d:IsLocked="True">Giới tính:</Label>
+                        <DockPanel Canvas.Left="638" Canvas.Top="108" d:IsLocked="True" >
+                            <RadioButton x:Name="tkgtNam" Content="Nam" Margin="20,0,10,0" FontSize="14" Foreground="{DynamicResource PrimaryHueDarkBrush}" />
+                            <RadioButton x:Name="tkgtNu" Content="Nữ" Margin="15,0,0,0" FontSize="14" Foreground="{DynamicResource PrimaryHueDarkBrush}" />
+                        </DockPanel>
+                        <Button x:Name="timkiemBenhNhan" RenderTransformOrigin="4.147,12.781" Canvas.Left="858" Canvas.Top="104"  Height="35" Width="35" ToolTip="Tìm kiếm" d:IsLocked="True" >
+                            <Canvas>
+                                <Image Width="40" Height="40" Canvas.Left="-20" Canvas.Top="-22" Source="Images/Find-Replace-02.png"/>
+                            </Canvas>
+                        </Button>
+                        <Button x:Name="refreshDanhSach" RenderTransformOrigin="4.147,12.781" Canvas.Left="940" Canvas.Top="104"  Height="35" Width="35" ToolTip="Phục hồi">
+                            <Canvas>
+                                <Image Width="40" Height="40" Canvas.Left="-22" Canvas.Top="-20" Source="Images/Refresh-WF.png"/>
+                            </Canvas>
+                        </Button>
+                    </Canvas>
+                    <Grid Grid.Row="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="8*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="6*"/>
+                                <ColumnDefinition Width="1.5*"/>
+                                <ColumnDefinition Width="1.5*"/>
+                                <ColumnDefinition Width="1.5*"/>
+                            </Grid.ColumnDefinitions>
+                            <Canvas Grid.Column="0" Loaded="Canvas_Loaded">
+                                <materialDesign:Card Canvas.Left="10" Padding="5" Canvas.Top="3" >
+                                    <TextBlock x:Name="txtbkNgayKham" Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" />
+                                </materialDesign:Card>
+                                <Label Foreground="#1565C0" Canvas.Left="370" Canvas.Top="12" FontSize="15">Số bệnh nhân đã đăng kí :</Label>
+                                <TextBlock x:Name="sobenhnhandadangki" Foreground="#1565C0" Canvas.Left="552" Canvas.Top="17" FontSize="15" ToolTip="Số bệnh nhân đã đăng kí"></TextBlock>
+                                <TextBlock x:Name="quanli_soluongbenhnhankhamtoida" Foreground="#1565C0" Canvas.Left="570" Canvas.Top="17" FontSize="15" ToolTip="Số lượng bệnh nhân khám tối đa trong ngày"></TextBlock>
+                            </Canvas>
+                            <Button Grid.Column="1" x:Name="thembenhnhan" Margin="5,2,5,1" >
+                                <Canvas>
+                                    <Image Width="35" Height="35" RenderTransformOrigin="-2.8,0.04" Canvas.Left="-75" Canvas.Top="-18" Source="Images/Add-New.png" />
+                                    <TextBlock Canvas.Left="-40" Canvas.Top="-12" Foreground="white" RenderTransformOrigin="0.155,0.591"><Run Text="Thêm bệnh nhân"/></TextBlock>
+                                </Canvas>
+                            </Button>
+                            <Button Grid.Column="2" Click="xuatExcel" Margin="5,10,5,10" >
+                                <Canvas>
+                                    <Image Canvas.Left="-70" Canvas.Top="-18" Width="35" Height="35" Source="Images/Excel-Export.png"/>
+                                    <TextBlock Canvas.Left="-35" Canvas.Top="-12" Foreground="white"><Run Text="Xuất file excel"/></TextBlock>
+                                </Canvas>
+                            </Button>
+                            <Button Grid.Column="3" Margin="5,10,5,10" Click="nhapfileexcel" >
+                                <Canvas>
+                                    <Image Canvas.Left="-70" Canvas.Top="-18" Width="35" Height="35" Source="Images/Data-Import.png"/>
+                                    <TextBlock Canvas.Left="-35" Canvas.Top="-12" Foreground="white"><Run Text="Nhập file excel"/></TextBlock>
+                                </Canvas>
+                            </Button>
+                        </Grid>
+                        <DataGrid AutoGenerateColumns="False" Grid.Row="1" Style="{StaticResource AzureDataGrid}" Height="418" VerticalAlignment="Top" HorizontalAlignment="Left" Width="1084"
+                        x:Name="DanhSachKhamBenh" ItemsSource="{Binding}" GridLinesVisibility="All"
+                        CanUserResizeRows="False" Margin="10,0,0,0" RowHeight ="40" CanUserAddRows="false">
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow">
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding TinhTrangKham}" Value="Đã Khám">
+                                            <Setter Property="Background" Value="#64B5F6"></Setter>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding TinhTrangKham}" Value="Chưa Khám">
+                                            <Setter Property="Background" Value="#E3F2FD"></Setter>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.RowStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding STT}" Header="STT" Width="50"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding MaBenhNhan}" Header="MÃ BỆNH NHÂN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding HoTen}" Header="HỌ VÀ TÊN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding CMND}" Header="SỐ CMND" Width="100" IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding GioiTinh}" Header="GIỚI TÍNH" Width="80"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding NamSinh}" Header="NĂM SINH" Width="85"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding DiaChi}" Header="ĐỊA CHỈ" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding DiDong}" Header="DI ĐỘNG" Width="100"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding TinhTrangKham}" Header="TÌNH TRẠNG" Width="100" IsReadOnly="True" />
+                                <DataGridTemplateColumn Header="CHỨC NĂNG" Width="115"
+                                IsReadOnly="True">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Canvas>
+                                                <Button Width="20" Height="20" Background="White" ToolTip="Chỉnh sửa" Click="chinhSua_Click" >
+                                                    <Canvas>
+                                                        <Image Source="Images/User Edit-02-WF.png" Width="15" Height="15" Canvas.Left="-13" Canvas.Top="-8"/>
+                                                    </Canvas>
+                                                </Button>
+                                                <Button Width="20" Height="20" Background="White" Canvas.Left="30" ToolTip="Khám bệnh" Click="KhamBenh_Click"  >
+                                                    <Canvas>
+                                                        <Image Source="Images/Heart-04.png" Width="15" Height="15" Canvas.Left="-13" Canvas.Top="-8"/>
+                                                    </Canvas>
+                                                </Button>
+                                                <Button Width="20" Height="20" Background="White" Canvas.Left="60" ToolTip="Xóa" Click="xoa_click" >
+                                                    <Canvas>
+                                                        <Image Source="Images/Chat - User Delete - 01.png" Width="15" Height="15" Canvas.Left="-13" Canvas.Top="-8"/>
+                                                    </Canvas>
+                                                </Button>
+                                            </Canvas>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_khambenh" >
+                <TabItem.Header>
+                    <Canvas>
+                        <Image Width="50" Height="50" Canvas.Left="-80" Canvas.Top="-25" Source="Images/Stethoscope-03.png"/>
+                        <TextBlock Canvas.Left="-40" Canvas.Top="-10" Foreground="white" Text="KHÁM BỆNH" FontSize="17"/>
+                    </Canvas>
+                </TabItem.Header>
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="3*" />
+                        <RowDefinition Height="9*" />
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Row="0"  Background="#2196F3">
+                        <Image Source="Images/Stethoscope-03.png" Margin="0,-11,10,-12" Width="77" />
+                        <Label FontSize="32" Foreground="white" Content="Khám Bệnh" Margin="-20,0,0,0"/>
+                    </DockPanel>
+                    <Grid x:Name="tabkhambenh_danhsachkhambenh" Grid.Row="1" Grid.RowSpan="2" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="52*"/>
+                            <ColumnDefinition Width="1039*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="0.6*"/>
+                            <RowDefinition Height="5*"/>
+                            <RowDefinition Height="0.6*"/>
+                            <RowDefinition Height="5*"/>
+                        </Grid.RowDefinitions>
+                        <Canvas Grid.Row="0" Grid.ColumnSpan="2">
+                            <materialDesign:Card Canvas.Left="10" Padding="5" Canvas.Top="3">
+                                <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="Danh sách các bệnh nhân chưa khám"/>
+                            </materialDesign:Card>
+                        </Canvas>
+                        <DataGrid x:Name="danhsachchuakham" Grid.Row="1" AutoGenerateColumns="False" Style="{StaticResource AzureDataGrid}" Height="271" VerticalAlignment="Top" HorizontalAlignment="Left" Width="1024"
+                         ItemsSource="{Binding}" GridLinesVisibility="All"
+                            CanUserResizeRows="False" Margin="10,0,0,0" RowHeight ="40" CanUserAddRows="false" Grid.ColumnSpan="2">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Path=STT}" Header="STT" Width="50"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=MaBenhNhan}" Header="MÃ BỆNH NHÂN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=HoTen}" Header="HỌ VÀ TÊN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=CMND}" Header="SỐ CMND" Width="100" IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=GioiTinh}" Header="GIỚI TÍNH" Width="80"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=NamSinh}" Header="NĂM SINH" Width="85"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=DiaChi}" Header="ĐỊA CHỈ" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=DiDong}" Header="DI ĐỘNG" Width="100"
+                                IsReadOnly="True" />
+                                <DataGridTemplateColumn Header="CHỨC NĂNG" Width="115"
+                                    IsReadOnly="True">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Canvas>
+                                                <Button Width="20" Height="20" Background="White" Canvas.Left="40" ToolTip="Khám bệnh" Click="tabkhambenh_khambenh">
+                                                    <Canvas>
+                                                        <Image Source="Images/Heart-04.png" Width="15" Height="15" Canvas.Left="-13" Canvas.Top="-8"/>
+                                                    </Canvas>
+                                                </Button>
+                                            </Canvas>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <Canvas Grid.Row="2" d:IsLocked="True" Grid.ColumnSpan="2">
+                            <materialDesign:Card Canvas.Left="10" Padding="5" >
+                                <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="Danh sách các bệnh nhân đã khám"/>
+                            </materialDesign:Card>
+                        </Canvas>
+                        <DataGrid x:Name="danhsachdakham" Grid.Row="3" AutoGenerateColumns="False" Style="{StaticResource AzureDataGrid}" Height="280" VerticalAlignment="Top" HorizontalAlignment="Left" Width="897"
+                         ItemsSource="{Binding}" GridLinesVisibility="All"
+                            CanUserResizeRows="False" Margin="10,0,0,0" RowHeight ="40" CanUserAddRows="false" Grid.ColumnSpan="2">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Path=STT}" Header="STT" Width="50"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=MaBenhNhan}" Header="MÃ BỆNH NHÂN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=HoTen}" Header="HỌ VÀ TÊN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=CMND}" Header="SỐ CMND" Width="100" IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=GioiTinh}" Header="GIỚI TÍNH" Width="80"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=NamSinh}" Header="NĂM SINH" Width="85"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=DiaChi}" Header="ĐỊA CHỈ" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=DiDong}" Header="DI ĐỘNG" Width="100"
+                                IsReadOnly="True" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_hoadon" >
+                <TabItem.Header>
+                    <Canvas>
+                        <Image Width="50" Height="31" Canvas.Left="-78" Canvas.Top="-18" Source="Images/Bill.png"/>
+                        <TextBlock Canvas.Left="-35" Canvas.Top="-10" Foreground="white" Text="HÓA ĐƠN" FontSize="17"/>
+                    </Canvas>
+                </TabItem.Header>
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="3*" />
+                        <RowDefinition Height="9*" />
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Row="0"  Background="#2196F3">
+                        <Image Source="Images/Bill.png" Margin="10,6,10,5" Width="55" />
+                        <Label FontSize="32" Foreground="white" Content="Quản lí danh sách hóa đơn" Margin="-15,0,0,0"/>
+                    </DockPanel>
+                    <Grid Grid.Row="1" Grid.RowSpan="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="2*"/>
+                            <RowDefinition Height="0.5*"/>
+                            <RowDefinition Height="7*"/>
+                        </Grid.RowDefinitions>
+                        <Canvas Grid.Row="0" Grid.RowSpan="2">
+                            <Label Foreground="#1565C0" Height="28" Canvas.Left="45" Canvas.Top="38" FontSize="13">Mã hóa đơn:</Label>
+                            <TextBox x:Name="tkhdmahoadon" Width="100" Canvas.Left="133" Canvas.Top="38"/>
+                            <Label Foreground="#1565C0" Canvas.Left="294" Canvas.Top="92" FontSize="13">Mã bệnh nhân:</Label>
+                            <TextBox x:Name="tkhdMaBN" Width="100" Canvas.Left="395" Canvas.Top="92"/>
+                            <Label Foreground="#1565C0" Canvas.Left="76" Canvas.Top="92" FontSize="13">Họ tên:</Label>
+                            <TextBox x:Name="tkhdhoten" Width="125" Canvas.Left="133" Canvas.Top="94"/>
+                            <Label Foreground="#1565C0" Canvas.Left="294" Canvas.Top="37" FontSize="14" RenderTransformOrigin="-2.667,0.889">Khoảng ngày:</Label>
+                            <DatePicker Foreground="#1565C0" x:Name="TuNgay" RenderTransformOrigin="21.087,4.6" Canvas.Left="388" Canvas.Top="37" Width="87"></DatePicker>
+                            <Label Foreground="#1565C0" Canvas.Left="480" Canvas.Top="37" FontSize="14" RenderTransformOrigin="-2.667,0.889">Đến:</Label>
+                            <DatePicker Foreground="#1565C0" x:Name="DenNgay" RenderTransformOrigin="21.087,4.6" Canvas.Left="523" Canvas.Top="37" Width="87"></DatePicker>
+                            <Button x:Name="timkiemhoadon" RenderTransformOrigin="4.147,12.781" Canvas.Left="580" Canvas.Top="87"  Height="30" Width="30" ToolTip="Tìm kiếm" Click="timkiemhoadon_Click">
+                                <Canvas>
+                                    <Image Width="40" Height="40" Canvas.Left="-20" Canvas.Top="-22" Source="Images/Find-Replace-02.png"/>
+                                </Canvas>
+                            </Button>
+                        </Canvas>
+                        <Canvas Grid.Row="1">
+                            <materialDesign:Card  Canvas.Left="10" Padding="5" >
+                                <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="Danh sách hóa đơn"/>
+                            </materialDesign:Card>
+                        </Canvas>
+                        <DataGrid x:Name="danhsachhoadon" Grid.Row="2" AutoGenerateColumns="False" Style="{StaticResource AzureDataGrid}" Height="436" VerticalAlignment="Top" HorizontalAlignment="Left" Width="714"
+                         ItemsSource="{Binding}" GridLinesVisibility="All"
+                            CanUserResizeRows="False" RowHeight ="40" CanUserAddRows="false">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Path=STT}" Header="STT" Width="50"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=mahoadon}" Header="MÃ SỐ HÓA ĐƠN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=MaBenhNhan}" Header="MÃ BỆNH NHÂN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=HoTen}" Header="HỌ TÊN" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=ngaylap}" Header="NGÀY LẬP" Width="100" IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=TongCong}" Header="THÀNH TIỀN" Width="100"
+                                IsReadOnly="True" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_danhsachthuoc" >
+                <TabItem.Header>
+                    <Canvas>
+                        <Image Width="50" Height="50" Canvas.Left="-80" Canvas.Top="-25" Source="Images/Pills.png"/>
+                        <TextBlock Canvas.Left="-35" Canvas.Top="-10" Foreground="white" Text="THUỐC" FontSize="17"/>
+                    </Canvas>
+                </TabItem.Header>
+                <Grid HorizontalAlignment="Stretch" Height="auto" VerticalAlignment="Stretch" Width="auto" Margin="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="11*" />
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Row="0" Background="#2196F3">
+                        <Image Source="Images/Pills.png" Margin="0,-6,-10,-9" Width="61"/>
+                        <Label FontSize="32" Foreground="white" Content="Danh sách thuốc"/>
+                    </DockPanel>
+                    <Canvas Grid.Row="1">
+                        <materialDesign:Card Canvas.Left="10" Padding="5" Canvas.Top="10">
+                            <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="Danh sách thuốc"/>
+                        </materialDesign:Card>
+                        <TextBox x:Name="dsthuoc_timkiemthuoc" Canvas.Top="14" Foreground="#1565C0"  HorizontalAlignment="Left" Height="28" TextWrapping="Wrap" VerticalAlignment="Center" Width="182" FontSize="15" Grid.RowSpan="2" Canvas.Left="624">
+                            <TextBox.Template>
+                                <ControlTemplate>
+                                    <Border x:Name="border" BorderBrush="#FF2196F3"
+                                    BorderThickness="1 1 1 1 " Background="white" SnapsToDevicePixels="True">
+                                        <Grid>
+                                            <Grid.ColumnDefinitions></Grid.ColumnDefinitions>
+                                            <ScrollViewer x:Name="PART_ContentHost" Focusable="False" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden" Grid.Column="0" VerticalContentAlignment="Center" Padding="0,0,0,2"/>
+                                            <Button HorizontalAlignment="Right" Width="25" Grid.Column="1">
+                                                <Canvas>
+                                                    <Image Width="20" Height="20" Canvas.Left="-15" Canvas.Top="-12" Source="Images/Search.png"/>
+                                                </Canvas>
+                                            </Button>
+                                        </Grid>
+                                    </Border>
+                                </ControlTemplate>
+                            </TextBox.Template>
+                        </TextBox>
+                    </Canvas>
+                    <DataGrid x:Name="tabthuoc_danhsachthuoc" Grid.Row="2" Canvas.Top="160" AutoGenerateColumns="False"
+                             ItemsSource="{Binding}"
+                                CanUserResizeRows="False" RowHeight ="40" CanUserAddRows="false" Background="white" Canvas.Left="22" Margin="29,25,277,7">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Path=STT}" Header="STT" Width="50"
+                                            IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=MaThuoc}" Header="Mã Thuốc" Width="150"
+                                            IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=TenThuoc}" Header="TÊN THUỐC" Width="300"
+                                            IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=DonGiaThuoc}" Header="ĐƠN GIÁ THUỐC" Width="150"
+                                            IsReadOnly="True" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_danhsachbenhnhan" VerticalAlignment="Center" Height="50">
+                <TabItem.Header>
+                    <Canvas>
+                        <Image Width="32" Height="32" Canvas.Left="-70" Canvas.Top="-20" Source="Images/Patient-01-WF.png"/>
+                        <TextBlock Canvas.Left="-35" Canvas.Top="-10" Foreground="white" FontSize="17"><Run Text="BỆNH NHÂN"/></TextBlock>
+                    </Canvas>
+                </TabItem.Header>
+                <Grid HorizontalAlignment="Stretch" Height="auto" VerticalAlignment="Stretch" Width="auto" Margin="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="3*" />
+                        <RowDefinition Height="9*" />
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Row="0" Background="#2196F3">
+                        <Image Source="Images/Patient-01-WF.png" Margin="10,4,5,5" Width="45"/>
+                        <Label FontSize="32" Foreground="white" Content="Danh sách bệnh nhân"/>
+                    </DockPanel>
+                    <Canvas Grid.Row="1">
+                        <Label Foreground="#1565C0" Height="28" Canvas.Left="34" Canvas.Top="33" FontSize="14">Họ tên:</Label>
+                        <TextBox x:Name="tkdsHoten" Width="149" Canvas.Left="94" Canvas.Top="33" FontSize="14"/>
+                        <Label Foreground="#1565C0" Height="28" Canvas.Left="34" Canvas.Top="91" FontSize="14">Loại bệnh:</Label>
+                        <ComboBox x:Name="tkdsloaibenh" Canvas.Left="113" Canvas.Top="91" Width="130">
+                        </ComboBox>
+                        <Label Foreground="#1565C0" Canvas.Left="294" Canvas.Top="37" FontSize="14" RenderTransformOrigin="-2.667,0.889">Khoảng ngày:</Label>
+                        <DatePicker Foreground="#1565C0" x:Name="tkdsTuNgay" RenderTransformOrigin="21.087,4.6" Canvas.Left="388" Canvas.Top="37" Width="87"></DatePicker>
+                        <Label Foreground="#1565C0" Canvas.Left="480" Canvas.Top="37" FontSize="14" RenderTransformOrigin="-2.667,0.889">Đến:</Label>
+                        <DatePicker Foreground="#1565C0" x:Name="tkdsDenNgay" RenderTransformOrigin="21.087,4.6" Canvas.Left="523" Canvas.Top="37" Width="87"></DatePicker>
+                        <Button x:Name="timkiembenhnhantrongdanhsach" RenderTransformOrigin="4.147,12.781" Canvas.Left="580" Canvas.Top="87"  Height="30" Width="30" ToolTip="Tìm kiếm">
+                            <Canvas>
+                                <Image Width="40" Height="40" Canvas.Left="-20" Canvas.Top="-22" Source="Images/Find-Replace-02.png"/>
+                            </Canvas>
+                        </Button>
+                        <Button x:Name="refreshDanhSachBenhnhan" RenderTransformOrigin="4.147,12.781" Canvas.Left="523" Canvas.Top="87"  Height="30" Width="30" ToolTip="Phục hồi">
+                            <Canvas>
+                                <Image Width="40" Height="40" Canvas.Left="-22" Canvas.Top="-20" Source="Images/Refresh-WF.png"/>
+                            </Canvas>
+                        </Button>
+                    </Canvas>
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <DataGrid Grid.Column="0" x:Name="danhsachbenhnhan"  AutoGenerateColumns="False" Style="{StaticResource AzureDataGrid}" VerticalAlignment="Top" HorizontalAlignment="Left"
+                         ItemsSource="{Binding}" GridLinesVisibility="All"
+                            CanUserResizeRows="False" RowHeight ="40" CanUserAddRows="false" Height="462" Grid.ColumnSpan="2" Margin="10,0,0,0">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Path=STT}" Header="STT" Width="50"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=Hoten}" Header="Họ Tên" Width="150"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=ngaykham}" Header="Ngày Khám" Width="100"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=loaibenh}" Header="Loại Bệnh" Width="100"
+                                IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=trieuchung}" Header="Triệu chứng" Width="150" IsReadOnly="True" />
+                                <DataGridTemplateColumn Header="CHỨC NĂNG" Width="100"
+                                    IsReadOnly="True">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Canvas>
+                                                <Button Width="20" Height="20" Background="White" Canvas.Left="10" ToolTip="Xem chi tiết thông tin" Click="ds_xemthongtinbenhnhan">
+                                                    <Canvas>
+                                                        <Image Source="Images/View details.png" Width="15" Height="15" Canvas.Left="-13" Canvas.Top="-8"/>
+                                                    </Canvas>
+                                                </Button>
+                                            </Canvas>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <Canvas x:Name="dsthongtinbenhnhan" Grid.Column="1" Visibility="Hidden">
+                            <materialDesign:Card Padding="5" Canvas.Top="10" Canvas.Left="24" Height="443" Width="402" >
+                                <Canvas>
+                                    <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="18" Text="Thông tin bệnh nhân" Canvas.Left="15"/>
+                                    <TextBlock x:Name="dsHoTen" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="17" FontWeight="Normal" FontSize="15" Canvas.Top="62" FontFamily="Arial"/>
+                                    <TextBlock x:Name="dsCMND" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="17" FontWeight="Normal" FontSize="15" Canvas.Top="97" FontFamily="Arial"/>
+                                    <TextBlock x:Name="dsSDT" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="17" FontWeight="Normal" FontSize="15" Canvas.Top="132"/>
+                                    <TextBlock x:Name="dsGioiTinh" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="17" FontWeight="Normal" FontSize="15" Canvas.Top="167" FontFamily="Arial"/>
+                                    <TextBlock x:Name="dsnghenghiep" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="17" FontWeight="Normal" FontSize="15" Canvas.Top="202" FontFamily="Arial"/>
+                                    <TextBlock x:Name="dsnamsinh" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="17" FontWeight="Normal" FontSize="15" Canvas.Top="237" FontFamily="Arial"/>
+                                    <TextBlock x:Name="dsdiachi" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="17" FontWeight="Normal" FontSize="15" Canvas.Top="272" FontFamily="Arial"/>
+                                </Canvas>
+                            </materialDesign:Card>
+                        </Canvas>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_baocao">
+                <TabItem.Header>
+                    <Canvas>
+                        <Image Width="47" Height="34" Canvas.Left="-77" Canvas.Top="-21" Source="Images/New Report.png" RenderTransformOrigin="0.577,-0.145"/>
+                        <TextBlock Canvas.Left="-35" Canvas.Top="-10" Foreground="white" Text="BÁO CÁO" FontSize="17"/>
+                    </Canvas>
+                </TabItem.Header>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="3*" />
+                        <RowDefinition Height="9*" />
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Row="0" Grid.ColumnSpan="3" Background="#2196F3">
+                        <Image Source="Images/New Report.png" Margin="5,5,15,5" Width="60"/>
+                        <Label FontSize="32" Foreground="white" Content="Báo cáo" Margin="-20,0,0,0"/>
+                    </DockPanel>
+                    <dragablz:TabablzControl x:Name="baocaocontrol" Grid.Row="1" Grid.RowSpan="2" FixedHeaderCount="7" RenderTransformOrigin="1.13,0.502">
+                        <dragablz:TabablzControl.InterTabController>
+                            <dragablz:InterTabController />
+                        </dragablz:TabablzControl.InterTabController>
+                        <TabItem Header="DOANH THU" IsSelected="True" Margin="5,0" Width="500">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="2*"/>
+                                    <RowDefinition Height="auto"/>
+                                </Grid.RowDefinitions>
+                                <Canvas Grid.Row="0">
+                                    <materialDesign:Card  Canvas.Left="10" Padding="5" Canvas.Top="24" >
+                                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="BÁO CÁO DOANH THU THEO NGÀY"/>
+                                    </materialDesign:Card>
+                                    <Label Foreground="#1565C0" Canvas.Left="99" Canvas.Top="74" FontSize="14">Tháng:</Label>
+                                    <ComboBox Foreground="#1565C0" x:Name="doanhthu_thang" Canvas.Left="156" Canvas.Top="74" Width="71" SelectedIndex="0" FontSize="14">
+                                        <ComboBoxItem>Tháng 1</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 2</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 3</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 4</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 5</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 6</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 7</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 8</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 9</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 10</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 11</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 12</ComboBoxItem>
+                                    </ComboBox>
+                                    <Label Foreground="#1565C0" Canvas.Left="245" Canvas.Top="74" FontSize="14">Năm:</Label>
+                                    <TextBox x:Name="doanhthu_nam" Foreground="#1565C0" Canvas.Left="293" Canvas.Top="74" FontSize="14" Width="53"></TextBox>
+                                    <Button x:Name="loadbaocaodoanhthutheongay" RenderTransformOrigin="4.147,12.781" Canvas.Left="400" Canvas.Top="100"  Height="35" Width="35" ToolTip="XEM DOANH THU" >
+                                        <Canvas>
+                                            <Image Width="30" Height="30" Canvas.Left="-17" Canvas.Top="-15" Source="Images/Load Report.png"/>
+                                        </Canvas>
+                                    </Button>
+                                    <Button x:Name="xuatexcel_doanhthu" RenderTransformOrigin="4.147,12.781" Canvas.Left="462" Canvas.Top="100"  Height="35" Width="35" ToolTip="XUẤT EXCEL" >
+                                        <Canvas>
+                                            <Image Width="40" Height="40" Canvas.Left="-17" Canvas.Top="-20" Source="Images/Excel-Export.png"/>
+                                        </Canvas>
+                                    </Button>
+                                    <TextBlock x:Name="ketquadoanhthu" Foreground="#1565C0" FontSize="15" Canvas.Left="42" Canvas.Top="129" />
+                                </Canvas>
+                                <DataGrid AutoGenerateColumns="False" Style="{StaticResource AzureDataGrid}" Height="411" VerticalAlignment="Top" HorizontalAlignment="Left" Width="471"
+                        x:Name="baocaodoanhthutheongay" ItemsSource="{Binding}" GridLinesVisibility="All"
+                        CanUserResizeRows="False" Margin="50,168,0,0" RowHeight ="40" CanUserAddRows="false">
+                                    <DataGrid.Columns>
+                                        <DataGridTextColumn Binding="{Binding Path=ngaykham}" Header="NGÀY KHÁM" Width="150"
+                                IsReadOnly="True" />
+                                        <DataGridTextColumn Binding="{Binding Path=sobenhnhan}" Header="SỐ BỆNH NHÂN" Width="150"
+                                IsReadOnly="True" />
+                                        <DataGridTextColumn Binding="{Binding Path=doanhthu}" Header="DOANH THU" Width="100"
+                                IsReadOnly="True" />
+                                        <DataGridTextColumn Binding="{Binding Path=tyle}" Header="TỶ LỆ" Width="70" IsReadOnly="True" />
+                                    </DataGrid.Columns>
+                                </DataGrid>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="SỬ DỤNG THUỐC">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="2*"/>
+                                    <RowDefinition Height="auto"/>
+                                </Grid.RowDefinitions>
+                                <Canvas Grid.Row="0">
+                                    <materialDesign:Card  Canvas.Left="10" Padding="5" Canvas.Top="24" >
+                                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="BÁO CÁO SỬ DỤNG THUỐC"/>
+                                    </materialDesign:Card>
+                                    <Label Foreground="#1565C0" Canvas.Left="99" Canvas.Top="74" FontSize="14">Tháng:</Label>
+                                    <ComboBox Foreground="#1565C0" x:Name="sudung_thang" Canvas.Left="156" Canvas.Top="74" Width="71" SelectedIndex="0" FontSize="14">
+                                        <ComboBoxItem>Tháng 1</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 2</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 3</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 4</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 5</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 6</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 7</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 8</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 9</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 10</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 11</ComboBoxItem>
+                                        <ComboBoxItem>Tháng 12</ComboBoxItem>
+                                    </ComboBox>
+                                    <Label Foreground="#1565C0" Canvas.Left="245" Canvas.Top="74" FontSize="14">Năm:</Label>
+                                    <TextBox x:Name="sudung_nam" Foreground="#1565C0" Canvas.Left="293" Canvas.Top="74" FontSize="14" Width="53"></TextBox>
+                                    <Button x:Name="loadbaocaosudungthuoc" RenderTransformOrigin="4.147,12.781" Canvas.Left="400" Canvas.Top="100" Height="35" Width="35" ToolTip="Tìm kiếm" >
+                                        <Canvas>
+                                            <Image Width="30" Height="30" Canvas.Left="-17" Canvas.Top="-15" Source="Images/Load Report.png"/>
+                                        </Canvas>
+                                    </Button>
+                                    <Button x:Name="xuatexcel_sudungthuoc" RenderTransformOrigin="4.147,12.781" Canvas.Left="462" Canvas.Top="100"  Height="35" Width="35" ToolTip="XUẤT EXCEL" >
+                                        <Canvas>
+                                            <Image Width="40" Height="40" Canvas.Left="-17" Canvas.Top="-20" Source="Images/Excel-Export.png"/>
+                                        </Canvas>
+                                    </Button>
+                                    <TextBlock x:Name="ketquasudung" Foreground="#1565C0" FontSize="15" Canvas.Left="42" Canvas.Top="129" />
+                                </Canvas>
+                                <DataGrid AutoGenerateColumns="False" Style="{StaticResource AzureDataGrid}" Height="411" VerticalAlignment="Top" HorizontalAlignment="Left" Width="523"
+                        x:Name="baocaosudungthuoc" ItemsSource="{Binding}" GridLinesVisibility="All"
+                        CanUserResizeRows="False" Margin="50,168,0,0" RowHeight ="40" CanUserAddRows="false">
+                                    <DataGrid.Columns>
+                                        <DataGridTextColumn Binding="{Binding Path=TenThuoc}" Header="TÊN THUỐC" Width="150"
+                                IsReadOnly="True" />
+                                        <DataGridTextColumn Binding="{Binding Path=tendonvi}" Header="ĐƠN VỊ TÍNH" Width="150"
+                                IsReadOnly="True" />
+                                        <DataGridTextColumn Binding="{Binding Path=soluong}" Header="SỐ LƯỢNG" Width="100"
+                                IsReadOnly="True" />
+                                        <DataGridTextColumn Binding="{Binding Path=solandung}" Header="SỐ LẦN DÙNG" Width="110" IsReadOnly="True" />
+                                    </DataGrid.Columns>
+                                </DataGrid>
+                            </Grid>
+                        </TabItem>
+                    </dragablz:TabablzControl>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_quidinh">
+                <TabItem.Header>
+                    <Canvas>
+                        <Image Width="47" Height="34" Canvas.Left="-75" Canvas.Top="-15" Source="Images/MS system setting2-WF.png"/>
+                        <TextBlock Canvas.Left="-32" Canvas.Top="-10" Foreground="white" FontSize="17"><Run Text="QUI ĐỊNH"/></TextBlock>
+                    </Canvas>
+                </TabItem.Header>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="12*" />
+                    </Grid.RowDefinitions>
+                    <DockPanel Grid.Row="0" Grid.ColumnSpan="3" Background="#2196F3">
+                        <Image Source="Images/MS system setting2-WF.png" Margin="5,5,15,5" Width="60"/>
+                        <Label FontSize="32" Foreground="white" Content="Qui Định" Margin="-20,0,0,0"/>
+                    </DockPanel>
+                    <Canvas Grid.Row="1">
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="17" Text="THAY ĐỔI SỐ LƯỢNG BỆNH NHÂN KHÁM TRONG NGÀY :" Canvas.Left="26" Canvas.Top="43"/>
+                        <TextBox x:Name="soluongbenhnhankham" Width="41" TextAlignment="Center" Canvas.Left="475" Canvas.Top="38" FontSize="17" Foreground="#2196F3" VerticalAlignment="Center" FontWeight="Bold" HorizontalAlignment="Center"/>
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="17" Canvas.Left="515" Canvas.Top="43">NGÀY</TextBlock>
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="17" Text="THAY ĐỔI CHI TIẾT KHÁM BỆNH: " Canvas.Left="26" Canvas.Top="84"/>
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Canvas.Left="27" Canvas.Top="122">SỐ LƯỢNG LOẠI BỆNH :</TextBlock>
+                        <TextBox x:Name="soluongloaibenh" TextAlignment="Center" Width="41" Canvas.Left="200" Canvas.Top="111" FontSize="15" RenderTransformOrigin="-4.238,3.095" Foreground="#2196F3" FontWeight="Bold"></TextBox>
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Canvas.Left="27" Canvas.Top="152">SỐ LƯỢNG THUỐC :</TextBlock>
+                        <TextBox x:Name="soluongthuoc" TextAlignment="Center" Width="41" Canvas.Left="175" Canvas.Top="141" FontSize="15" RenderTransformOrigin="-4.238,3.095" Foreground="#2196F3" FontWeight="Bold"></TextBox>
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Canvas.Left="27" Canvas.Top="182">SỐ LƯỢNG ĐƠN VỊ :</TextBlock>
+                        <TextBox x:Name="soluongdonvi" TextAlignment="Center" Width="41" Canvas.Left="175" Canvas.Top="174" FontSize="15" RenderTransformOrigin="-4.238,3.095" Foreground="#2196F3" FontWeight="Bold"></TextBox>
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Canvas.Left="27" Canvas.Top="212">SỐ LƯỢNG CÁCH DÙNG :</TextBlock>
+                        <TextBox x:Name="soluongcachdung" TextAlignment="Center" Width="41" Canvas.Left="207" Canvas.Top="203" FontSize="15" RenderTransformOrigin="-4.238,3.095" Foreground="#2196F3" FontWeight="Bold"></TextBox>
+                        <Button x:Name="thaydoiquidinh" RenderTransformOrigin="4.147,12.781" Canvas.Left="448" Canvas.Top="241"  Height="35" Width="112">
+                            <Canvas>
+                                <Image Width="30" Height="30" Canvas.Left="-50" Canvas.Top="-18" Source="Images/Check.png"/>
+                                <TextBlock Canvas.Left="-20" Canvas.Top="-10">THAY ĐỔI</TextBlock>
+                            </Canvas>
+                        </Button>
+                        <Button x:Name="refreshquidinh" RenderTransformOrigin="4.147,12.781" Canvas.Left="377" Canvas.Top="241"  Height="35" Width="35" ToolTip="Phục hồi">
+                            <Canvas>
+                                <Image Width="40" Height="40" Canvas.Left="-22" Canvas.Top="-20" Source="Images/Refresh-WF.png"/>
+                            </Canvas>
+                        </Button>
+                    </Canvas>
+                </Grid>
+            </TabItem>
+        </dragablz:TabablzControl>
+        <Controls:Flyout x:Name="frmthemvachinhsuaBenhNhan" Height="720" Width="1250" Position="Top" Grid.RowSpan="2" FontSize="13" Grid.Row="0" d:IsHidden="True">
+            <Controls:Flyout.Background>
+                <SolidColorBrush Color="#FF252424" Opacity="0.9"/>
+            </Controls:Flyout.Background>
+            <Canvas Width="844" Margin="0,118,0,246" Background="white">
+                <materialDesign:Card Background="{DynamicResource PrimaryHueDarkBrush}"
+        			Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}"
+        			Width="162"
+        			Padding="8" UniformCornerRadius="6" Canvas.Left="4" Canvas.Top="4">
+                    <TextBlock TextWrapping="Wrap" FontSize="15" Margin="0,0,-20,0"><Run Text="Thêm bệnh nhân mới"/></TextBlock>
+                </materialDesign:Card>
+                <Grid Width="780" Height="350" Canvas.Left="34" Canvas.Top="60" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Foreground="#FF007ACC" FontSize="15" FontWeight="Bold" Grid.Column="0"><Run Text="Thông tin bệnh nhân"/></TextBlock>
+                    <Grid Grid.Column="0" Margin="0,40,0,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBox x:Name="MaBenhNhan" TextWrapping="Wrap" Tag="Mã Bệnh Nhân" Grid.Row="0" 
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="300" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" FontSize="13" IsReadOnly="true" />
+                        <TextBox x:Name="Hoten" TextWrapping="Wrap" Tag="Họ và tên" Grid.Row="1" 
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="300" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" FontSize="13" />
+                        <TextBox x:Name="Namsinh" TextWrapping="Wrap" Tag="Năm sinh" Grid.Row="2" 
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="300" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" FontSize="13" />
+                        <TextBox x:Name="Gioitinh" TextWrapping="Wrap" Tag="Giới tính"
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="100" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" Grid.Row="3" FontSize="13" />
+                        <DockPanel  Grid.Row="2" Margin="105,51,90,32" Grid.RowSpan="2" >
+                            <RadioButton x:Name="gtNam" Content="Nam" Margin="20,0,10,0" FontSize="14" Foreground="{DynamicResource PrimaryHueDarkBrush}" />
+                            <RadioButton x:Name="gtNu" Content="Nữ" Margin="15,0,0,0" FontSize="14" Foreground="{DynamicResource PrimaryHueDarkBrush}" />
+                        </DockPanel>
+                    </Grid>
+                    <Grid Grid.Column="1" Margin="0,40,0,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBox x:Name="Didong" TextWrapping="Wrap" Tag="Di Động"
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="300" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" Grid.Row="1" FontSize="13" />
+                        <TextBox x:Name="Nghenghiep" TextWrapping="Wrap" Tag="Nghề nghiệp"
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="300" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" Grid.Row="2" FontSize="13" />
+                        <TextBox x:Name="Diachi" TextWrapping="Wrap" Tag="Địa Chỉ" Grid.Row="3" 
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="300" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" FontSize="13" />
+                        <TextBox x:Name="Socmnd" TextWrapping="Wrap" Tag="Số CMND" 
+        					Text=" " VerticalAlignment="Top" BorderBrush="#FF007ACC" Width="300" Foreground="Black" Background="white"
+        					Template="{DynamicResource TextBoxBaseTemplate}" Style="{x:Null}" HorizontalAlignment="Left" Grid.Row="0" FontSize="13"/>
+                    </Grid>
+                </Grid>
+                <Button RenderTransformOrigin="4.147,12.781" Canvas.Left="345" Canvas.Top="298" Background="{DynamicResource PrimaryHueDarkBrush}" Click="LuuBenhNhan" Content="Hoàn thành" />
+                <Button x:Name="thoatfrmThemBenhNhan" RenderTransformOrigin="4.147,12.781" Canvas.Left="804" Canvas.Top="4" Background="{DynamicResource PrimaryHueDarkBrush}" Height="30" Width="30" >
+                    <Canvas>
+                        <Image Source="Images/Wrong-WF.png" Width="25" Height="25" Canvas.Left="-14" Canvas.Top="-13"/>
+                    </Canvas>
+                </Button>
+            </Canvas>
+        </Controls:Flyout>
+        <Controls:Flyout x:Name="frmphieukhambenh" Height="720" Width="1250" Position="Top" Grid.RowSpan="2" FontSize="13" Grid.Row="0">
+            <Controls:Flyout.Background>
+                <SolidColorBrush Color="#FF252424" Opacity="0.9"/>
+            </Controls:Flyout.Background>
+            <ScrollViewer>
+                <Grid x:Name="tabkhambenh_phieukhambenh" Grid.RowSpan="2"  Background="white" Height="720">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Canvas x:Name="phieukhambenhin" Grid.Column="0" Grid.ColumnSpan="2" Margin="10,0,570,0" >
+                        <materialDesign:Card x:Name="phieukhambenhnhan" Canvas.Left="28" Padding="5" Height="720" Width="542">
+                            <Canvas x:Name="PhieuKhamBenh" >
+                                <TextBlock Foreground="#1565C0" Canvas.Left="140" Style="{DynamicResource MaterialDesignTitleTextBlock}" FontWeight="Bold" FontSize="22" Canvas.Top="10" FontFamily="Times New Roman"><Run Text="PHIẾU KHÁM BỆNH"/></TextBlock>
+                                <TextBlock x:Name="pkbHoTen" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="28" FontWeight="Normal" FontSize="14" Canvas.Top="55" FontFamily="Arial"/>
+                                <TextBlock x:Name="pkbCMND" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="350" FontWeight="Normal" FontSize="14" Canvas.Top="80" FontFamily="Arial"/>
+                                <TextBlock x:Name="pkbSDT" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="28" FontWeight="Normal" FontSize="14" Canvas.Top="80"/>
+                                <TextBlock x:Name="pkbGioiTinh" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="350" FontWeight="Normal" FontSize="14" Canvas.Top="55" FontFamily="Arial"/>
+                                <TextBlock x:Name="pkbmaphieukhambenh" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="420" FontWeight="Normal" FontSize="14" Canvas.Top="55" FontFamily="Arial" Visibility="Hidden"/>
+                                <TextBlock Foreground="#1565C0" Canvas.Left="15" FontWeight="Normal" Style="{DynamicResource MaterialDesignTitleTextBlock}" FontSize="14" Canvas.Top="112" FontFamily="Arial"><Run Text="Triệu chứng:"/></TextBlock>
+                                <TextBox Foreground="#1565C0" x:Name="TrieuChung" Width="323" Canvas.Left="105" Canvas.Top="106" FontSize="14" FontFamily="Arial" VerticalAlignment="Center"/>
+                                <TextBlock Foreground="#1565C0" Canvas.Left="15" FontWeight="Normal" Style="{DynamicResource MaterialDesignTitleTextBlock}" FontSize="14" Canvas.Top="152" FontFamily="Arial"><Run Text="Chẩn đoán bệnh:"/></TextBlock>
+                                <ComboBox x:Name="chandoanbenh" Foreground="#1565C0" Canvas.Left="140" Canvas.Top="141" Width="208" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" FontSize="14" FontFamily="Arial">
+
+                                </ComboBox>
+                                <Button x:Name="ThemThuoc" RenderTransformOrigin="4.147,12.781" Canvas.Left="460" Canvas.Top="197"  Height="15" Width="15" ToolTip="Thêm Thuốc" Click="ThemThuoc_Click">
+                                    <Canvas>
+                                        <Image Width="15" Height="15" Canvas.Left="-16" Canvas.Top="-8" Source="Images/Add-New.png"/>
+                                    </Canvas>
+                                </Button>
+                                <TextBlock x:Name="loidanbacsi" Foreground="#1565C0" Canvas.Left="15" FontWeight="Normal" Style="{DynamicResource MaterialDesignTitleTextBlock}" FontSize="14" Canvas.Top="512" FontFamily="Arial"><Run Text="Lời dặn của bác sĩ:"/></TextBlock>
+                                <TextBlock x:Name="pkbNgayKham" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="310" FontWeight="Normal" FontSize="14" Canvas.Top="512" FontFamily="Arial"/>
+                                <RichTextBox x:Name="richtxbloidanbacsi" BorderThickness="1" Background="white" Foreground="#1565C0" Width="269" Canvas.Top="536" Height="164" Canvas.Left="15" FontSize="14" FontFamily="Arial"/>
+                            </Canvas>
+                        </materialDesign:Card>
+                    </Canvas>
+                    <Canvas Grid.Column="1">
+
+                        <Button x:Name="thoatPhieukhambenh" RenderTransformOrigin="4.147,12.781" Canvas.Left="487" Canvas.Top="10"  Height="40" Width="40" ToolTip="Thoát" Click="thoatPhieukhambenh_Click">
+                            <Canvas>
+                                <Image Width="35" Height="35" Canvas.Left="-17" Canvas.Top="-17" Source="Images/Exit - 03.png"/>
+                            </Canvas>
+                        </Button>
+                        <Button x:Name="pkblaphoadon" RenderTransformOrigin="4.147,12.781" Canvas.Left="403" Canvas.Top="10"  Height="40" Width="40" ToolTip="Lập hóa đơn">
+                            <Canvas>
+                                <Image Width="35" Height="35" Canvas.Left="-17" Canvas.Top="-17" Source="Images/Bill.png" RenderTransformOrigin="0,0.457"/>
+                            </Canvas>
+                        </Button>
+                        <Button x:Name="pkbin" RenderTransformOrigin="4.147,12.781" Canvas.Left="311" Canvas.Top="10"  Height="40" Width="40" ToolTip="In phiếu khám bệnh">
+                            <Canvas>
+                                <Image Width="35" Height="35" Canvas.Left="-18" Canvas.Top="-18" RenderTransformOrigin="0,0.457" Source="Images/in.png"/>
+                            </Canvas>
+                        </Button>
+                        <materialDesign:Card Canvas.Left="10" Padding="5" Canvas.Top="100">
+                            <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="Danh sách thuốc"/>
+                        </materialDesign:Card>
+
+                        <DataGrid x:Name="tabkhambenh_danhsachthuoc"  Canvas.Top="160" AutoGenerateColumns="False" Width="537"
+                             ItemsSource="{Binding}" Height="518"
+                                CanUserResizeRows="False" RowHeight ="40" CanUserAddRows="false" Background="white" Canvas.Left="22">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Path=STT}" Header="STT" Width="50"
+                                            IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=TenThuoc}" Header="TÊN THUỐC" Width="300"
+                                            IsReadOnly="True" />
+                                <DataGridTextColumn Binding="{Binding Path=DonGiaThuoc}" Header="ĐƠN GIÁ THUỐC" Width="150"
+                                            IsReadOnly="True" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <TextBox x:Name="parenttimkiemthuoc" Canvas.Top="50" Foreground="#1565C0"  HorizontalAlignment="Left" Height="28" TextWrapping="Wrap" VerticalAlignment="Center" Width="182" FontSize="15" Margin="377,63,0,560" Grid.RowSpan="2">
+                            <TextBox.Template>
+                                <ControlTemplate>
+                                    <Border x:Name="border" BorderBrush="#FF2196F3"
+                                    BorderThickness="1 1 1 1 " Background="white" SnapsToDevicePixels="True">
+                                        <Grid>
+                                            <Grid.ColumnDefinitions></Grid.ColumnDefinitions>
+                                            <ScrollViewer x:Name="PART_ContentHost" Focusable="False" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden" Grid.Column="0" VerticalContentAlignment="Center" Padding="0,0,0,2"/>
+                                            <Button HorizontalAlignment="Right" Width="25" Grid.Column="1">
+                                                <Canvas>
+                                                    <Image Width="20" Height="20" Canvas.Left="-15" Canvas.Top="-12" Source="Images/Search.png"/>
+                                                </Canvas>
+                                            </Button>
+                                        </Grid>
+                                    </Border>
+                                </ControlTemplate>
+                            </TextBox.Template>
+                        </TextBox>
+                    </Canvas>
+                </Grid>
+            </ScrollViewer>
+        </Controls:Flyout>
+        <Controls:Flyout x:Name="frmhoadon" Height="720" Width="1250" Position="Top" Grid.RowSpan="2" FontSize="14" Grid.Row="0" d:IsHidden="True">
+            <Controls:Flyout.Background>
+                <SolidColorBrush Color="#FF252424" Opacity="0.9"/>
+            </Controls:Flyout.Background>
+            <Grid Background="white">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.7*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="4*"/>
+                    <RowDefinition Height="3*"/>
+                </Grid.RowDefinitions>
+                <Canvas Grid.Row="0" Grid.ColumnSpan="3" Background="#2196F3">
+                    <Image Source="Images/Bill.png" Width="57" Canvas.Left="437" />
+                    <Label FontSize="25" Foreground="white" Content="HÓA ĐƠN KHÁM BỆNH" Canvas.Left="499" Canvas.Top="6"/>
+                </Canvas>
+                <Canvas Grid.Row="1">
+                    <materialDesign:Card Canvas.Left="20" Padding="5" Canvas.Top="25" >
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="Đơn thuốc"/>
+                    </materialDesign:Card>
+                    <materialDesign:Card Canvas.Left="380" Padding="5" Canvas.Top="25" >
+                        <TextBlock x:Name="hdngaykham" Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15"/>
+                    </materialDesign:Card>
+                    <materialDesign:Card Canvas.Left="650" Padding="5" Canvas.Top="25" >
+                        <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#2196F3" FontSize="15" Text="Thông tin bệnh nhân"/>
+                    </materialDesign:Card>
+                </Canvas>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="2.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <DataGrid x:Name="frmhoadon_hoadon" Grid.Column="0" AutoGenerateColumns="False" Height="331" VerticalAlignment="Top" HorizontalAlignment="Left" Width="565"
+                         ItemsSource="{Binding}" CanUserResizeRows="False" RowHeight ="40" CanUserAddRows="false" Background="white" Margin="36,0,0,0">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Path=STT}" Header="STT" Width="50"
+                                IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=TenThuoc}" Header="Tên Thuốc" Width="200"
+                                IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=SoLuong}" Header="Số Lượng" Width="100"
+                                IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=DonGia}" Header="Đơn Giá" Width="100" IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=ThanhTien}" Header="Thành Tiền" Width="150"
+                                IsReadOnly="True" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Canvas Grid.Column="1">
+                        <TextBlock x:Name="hdHoTen" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="15" FontWeight="Normal" FontSize="15" Canvas.Top="32" FontFamily="Arial"/>
+                        <TextBlock x:Name="hdCMND" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="297" FontWeight="Normal" FontSize="15" Canvas.Top="32" FontFamily="Arial"/>
+                        <TextBlock x:Name="hdSDT" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="15" FontWeight="Normal" FontSize="15" Canvas.Top="62"/>
+                        <TextBlock x:Name="hdGioiTinh" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="297" FontWeight="Normal" FontSize="15" Canvas.Top="62" FontFamily="Arial"/>
+                        <TextBlock x:Name="hdnghenghiep" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="15" FontWeight="Normal" FontSize="15" Canvas.Top="92" FontFamily="Arial"/>
+                        <TextBlock x:Name="hdnamsinh" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="297" FontWeight="Normal" FontSize="15" Canvas.Top="92" FontFamily="Arial"/>
+                        <TextBlock x:Name="hddiachi" Foreground="#1565C0" Style="{DynamicResource MaterialDesignTitleTextBlock}" Canvas.Left="15" FontWeight="Normal" FontSize="15" Canvas.Top="122" FontFamily="Arial"/>
+                    </Canvas>
+                </Grid>
+                <Canvas Grid.Row="3">
+                    <Label Foreground="#1E88E5" Canvas.Left="37" Canvas.Top="26" FontWeight="Bold" FontSize="15">TIỀN KHÁM</Label>
+                    <TextBox x:Name="txttienkham" Foreground="#1565C0" Height="29" Canvas.Left="136" Canvas.Top="26" FontSize="13" Width="176"></TextBox>
+                    <Label Foreground="#1E88E5" Canvas.Left="29" Canvas.Top="90" FontWeight="Bold" FontSize="15">TỔNG CỘNG</Label>
+                    <TextBox x:Name="hoadon_tongcong" Foreground="#1565C0" Height="29" Canvas.Left="136" Canvas.Top="90" FontSize="13" Width="176"></TextBox>
+                    <Button Grid.Column="2" x:Name="xuathoadon" Canvas.Left="566" Canvas.Top="87" Width="198" RenderTransformOrigin="0.985,-1.156" >
+                        <Canvas>
+                            <TextBlock Canvas.Left="-64" Canvas.Top="-10" Foreground="white" RenderTransformOrigin="0.155,0.591" Width="161"><Run Text="Lưu và xuất hóa đơn"/></TextBlock>
+                        </Canvas>
+                    </Button>
+                </Canvas>
+            </Grid>
+        </Controls:Flyout>
+    </Grid>
+</Controls:MetroWindow>
+
