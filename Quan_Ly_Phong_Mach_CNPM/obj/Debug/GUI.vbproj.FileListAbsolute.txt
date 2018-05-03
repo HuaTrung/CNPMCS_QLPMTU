@@ -197,3 +197,46 @@ D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.exe
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.xml
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe.config
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\BLL.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DTO.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\Dragablz.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\bin\Debug\DAL.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Dictionary1.baml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.baml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.baml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.baml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Menu.g.vb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\PhanTuThuoc.g.vb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Application.g.vb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.g.resources
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.Resources.resources
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\GUI.vbproj.CopyComplete
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.exe
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\Quan_Ly_Phong_Mach_CNPM\obj\Debug\Quan_Ly_Phong_Mach_CNPM.pdb

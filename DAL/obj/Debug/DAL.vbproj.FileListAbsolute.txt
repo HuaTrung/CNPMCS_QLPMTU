@@ -62,3 +62,19 @@ D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DAL\obj\Debug\DAL.dll
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DAL\obj\Debug\DAL.xml
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\DAL.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\DAL.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\DTO.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\DTO.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\DTO.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\DAL\obj\Debug\DAL.pdb

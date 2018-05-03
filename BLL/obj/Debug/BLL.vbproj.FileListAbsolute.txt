@@ -77,3 +77,22 @@ D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\BLL\obj\Debug\BLL.dll
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\BLL\obj\Debug\BLL.xml
 D:\ĐÔ ÁN CUỐI KÌ-20180413T045524Z-001\ĐÔ ÁN CUỐI KÌ\BAOCAODOANCUOIKI\Source Code\Quan_Ly_Phong_Mach_CNPM\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\BLL.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\BLL.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\DAL.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\DTO.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\DAL.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\DTO.pdb
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\DTO.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.dll
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.xml
+C:\Users\user\Documents\GitHub\CNPMCS_QLPMTU\BLL\obj\Debug\BLL.pdb
